@@ -1,0 +1,5 @@
+= README
+Thomas Phillips <tom@tsphillips.net>
+
+A variety of math problems.
+
